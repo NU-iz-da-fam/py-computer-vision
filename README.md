@@ -33,7 +33,7 @@
 |check_valid_april_images.py|Check if images are valid for calibration using aprilTag.
 |create_timestamps.py| Create dummy txt file which represent name of all images.
 |rename_dataset.py| Rename images in folder with numerical order.
-
+|image_alignment.py| Transfrom images from arbitrary to desired view.
 ### About me:
 - Email: nguyenbku97@gmail.com 
 - Leave me a star :dizzy: if it helps 
