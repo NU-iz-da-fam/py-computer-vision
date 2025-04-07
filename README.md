@@ -5,12 +5,16 @@
 - They can be used as necessary tools across calibration, image pre-processing, etc, ...
 
 ### Installation
-- Create virtual environment
+- Clone source, and navigate to stored folder.
+  ```
+  git clone https://github.com/NU-iz-da-fam/py-computer-vision
+  ```
+- Create virtual environment.
     ```
     python3 -m venv .pycv 
     source .pycv/bin/activate
     ```
-- Install required packages
+- Install required packages.
     ```
     python3 -m pip install -r requirements.txt
     ```
