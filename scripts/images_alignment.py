@@ -47,7 +47,6 @@ if __name__ == "__main__":
     timg_gray = cv2.cvtColor(timg, cv2.COLOR_BGR2GRAY)
 
     # orb features, and compute descriptors
-
     orb = cv2.ORB_create(MAX_FEATURES)
     kp1, des1 = orb.detectAndCompute(simg_gray, None)
     kp2, des2 = orb.detectAndCompute(timg_gray, None)
