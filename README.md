@@ -35,6 +35,7 @@
 |rename_dataset.py| Rename images in folder with numerical order.
 |image_alignment.py| Transfrom images from arbitrary to desired view.
 |object_tracking.py| Object tracking using opencv.
+|webcam_background_removal.py| Live webcam with custom background.
 ### About me:
 - Email: nguyenbku97@gmail.com 
 - Leave me a star :dizzy: if it helps 
