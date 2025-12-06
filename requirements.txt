@@ -1,6 +1,6 @@
 tqdm==4.66.2
-opencv-python==4.9.0.80
-opencv-contrib-python==4.9.0.80
+opencv-python
+opencv-contrib-python
 numpy
 natsort
 apriltag
