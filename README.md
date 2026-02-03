@@ -3,6 +3,9 @@
 ### Introduction
 - This repository contains many ready-to-go python scripts which are often used in computer vision tasks.
 - They can be used as necessary tools across calibration, image pre-processing, etc, ...
+- Tested environments:
+    - Ubuntu 20.04
+    - Ubuntu 22.04
 
 ### Installation
 - Clone source, and navigate to stored folder.
@@ -36,6 +39,7 @@
 |image_alignment.py| Transfrom images from arbitrary to desired view.
 |object_tracking.py| Object tracking using opencv.
 |webcam_background_removal.py| Live webcam with custom background.
+|create_edge_map_from_rgb.py| Get edge map from RGB image.
 
 ### Certificate
 - [OpenCV Bootcamp Cerfitiface](https://courses.opencv.org/certificates/d02d352f07bd4f7da09c223a59dd6c85)
